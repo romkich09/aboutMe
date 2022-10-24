@@ -27,9 +27,9 @@ body::-webkit-scrollbar-thumb:hover {
     background-color: #555555;
 }
 
-html {
+/* html {
     scroll-behavior: smooth;
-}
+} */
 
 body {
     height: 100vh;
@@ -48,7 +48,7 @@ body {
 }
 
 .profile-card {
-    width: 400px;
+    width: 700px;
     text-align: center;
     border-radius: 10px;
     overflow: hidden;
@@ -80,8 +80,14 @@ body {
 }
 
 .desc {
-    font-size: 18px;
+    font-size: 20px;
     color: #19ABFF;
+}
+
+.info {
+    font-size: 20px;
+    color: #FFF;
+    margin: 24px 0;
 }
 
 .sm {
