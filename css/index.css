@@ -122,3 +122,17 @@ body {
 .btn:hover {
     background-color: #0091E633;
 }
+
+.container {
+    font-size: 20px;
+    color: #19ABFF;
+}
+
+.container h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.auto-type {
+    color: white;
+}
